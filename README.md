@@ -1,16 +1,11 @@
-# simple_auth_ui
+# Authentication UI
 
-A new Flutter project.
+A simple Flutter authentication pages for practicing
 
-## Getting Started
+## ScreenShots
 
-This project is a starting point for a Flutter application.
+<img src="screen_shots/Screenshot_1765731214.png" width="300">
+<img src="screen_shots/Screenshot_1765731110.png" width="300">
+<img src="screen_shots/Screenshot_1765731116.png" width="300">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
